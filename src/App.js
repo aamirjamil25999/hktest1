@@ -45,6 +45,7 @@ function App() {
 }
 
 const countryOptions = [
+  'Select country',
   'USA',
   'Germany',
   'France',
@@ -57,6 +58,7 @@ const countryOptions = [
 ];
 
 const languageOptions = [
+  'Select language',
   'English',
   'Spanish',
   'French',

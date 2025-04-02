@@ -15,7 +15,6 @@ function Dropdown ({options, labelText, onChange}) {
           </option>
         ))}
       </select>
-      {/* Do not remove this default option as this is needed in testing */}
     </div>
   );
 }
